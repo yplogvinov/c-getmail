@@ -1,0 +1,1 @@
+Прием сообщений через POP3, предварительная обработка и сортировка на основе правил. для реализации функционала POP3 используется Synapse by Lukas Gebauer Synapse. homesite is at http://synapse.ararat.cz/
